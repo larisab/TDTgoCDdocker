@@ -1,0 +1,22 @@
+{
+  "name": "tbt",
+  "version": "1.0.0",
+  "description": "tdt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larisab/TDTgoCDdocker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larisab/TDTgoCDdocker/issues"
+  },
+  "homepage": "https://github.com/larisab/TDTgoCDdocker#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
